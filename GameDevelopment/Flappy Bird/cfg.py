@@ -57,3 +57,11 @@ OTHER_IMAGE_PATH = {
     'message': os.path.join(os.getcwd(), 'resources/images/message.png'),
     'base': os.path.join(os.getcwd(), 'resources/images/base.png')
 }
+
+AUDIO_PATH = {
+    'dead': os.path.join(os.getcwd(), 'resources/audios/die.wav'),
+    'hit': os.path.join(os.getcwd(), 'resources/audios/hit.wav'),
+    'point': os.path.join(os.getcwd(), 'resources/audios/point.wav'),
+    'swoosh': os.path.join(os.getcwd(), 'resources/audios/swoosh.wav'),
+    'wing': os.path.join(os.getcwd(), 'resources/audios/wing.wav')
+}
